@@ -1,0 +1,22 @@
+{
+  "name": "pull-cache",
+  "version": "0.0.0",
+  "description": "cache a pull-stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/clehner/pull-cache"
+  },
+  "keywords": [
+    "pull-stream"
+  ],
+  "author": "Charles Lehner (http://celehner.com/)",
+  "license": "Fair",
+  "devDependencies": {
+    "pull-stream": "^3.2.0",
+    "tape": "^4.4.0"
+  }
+}
