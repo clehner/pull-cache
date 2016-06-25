@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/clehner/pull-cache"
+    "url": "https://github.com/pull-stream/pull-cache"
   },
   "keywords": [
     "pull-stream"
